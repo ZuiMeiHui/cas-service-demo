@@ -89,7 +89,7 @@
     <properties>
         <cas.version>5.3.16</cas.version>
         <springboot.version>1.5.18.RELEASE</springboot.version>
-        <!-- app.server could be -jetty, -undertow, -tomcat, or blank if you plan to provide appserver -->
+		<!-- app.server could be -jetty, -undertow, -tomcat, or blank if you plan to provide appserver -->
         <app.server>-tomcat</app.server>
 
         <mainClassName>org.springframework.boot.loader.WarLauncher</mainClassName>
@@ -142,7 +142,7 @@
                     <type>war</type>
                     <scope>runtime</scope>
                 </dependency>
-                <!--
+				<!--
                 ...Additional dependencies may be placed here...
                 -->
             </dependencies>
