@@ -1,0 +1,10 @@
+{
+	"@class": "org.apereo.cas.support.oauth.services.OAuthRegisteredService",
+	"clientId": "oauth2-zuimeihui-com",
+	"clientSecret": "oauth2-zuimeihui-com",
+	"bypassApprovalPrompt": false,
+	"generateRefreshToken": false,
+	"serviceId": "^(https|http|imaps)://.*.zuimeihui.com.*",
+	"name": "zuimeihui.com",
+	"id": 10000011
+}

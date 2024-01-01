@@ -26,6 +26,12 @@
 			<artifactId>cas-server-core-authentication-attributes</artifactId>
 			<version>${cas.version}</version>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.apereo.cas/cas-server-support-oauth-webflow -->
+		<dependency>
+		    <groupId>org.apereo.cas</groupId>
+		    <artifactId>cas-server-support-oauth-webflow</artifactId>
+		    <version>${cas.version}</version>
+		</dependency>
 	</dependencies>
 
     <build>

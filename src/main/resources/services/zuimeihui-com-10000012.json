@@ -1,0 +1,7 @@
+{
+	"@class": "org.apereo.cas.support.oauth.services.OAuthRegisteredService",
+	"serviceId": "^(https|http|imaps)://.*.zuimeihui.com.*",
+	"name": "zuimeihui.com",
+	"id": 10000011,
+	"evaluationOrder": 1
+}
